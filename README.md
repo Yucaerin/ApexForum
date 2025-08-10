@@ -5,7 +5,7 @@
 **Affected Feature**: File Upload Endpoint  
 **Tested Vulnerability**: Unrestricted File Upload (PHP Code Execution)  
 **CVE**: Not Assigned  
-**Severity**: Critical (Authenticated File Upload to RCE)  
+**Severity**: Critical (Unauthenticated File Upload to RCE)  
 **CWE ID**: CWE-434  
 **CWE Name**: Unrestricted Upload of File with Dangerous Type  
 **Patched**: ❌ Not Applicable  
